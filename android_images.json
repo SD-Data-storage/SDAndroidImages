@@ -201,7 +201,7 @@
     "version_name": "4.0",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-14-android-4.0-sysimg_armv7a-14_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-14_r02.zip",
-    "image_type": sysimg",
+    "image_type": "sysimg",
     "sha256": "c322b7cd55cf4bcf7e00282607e7484f3c18cedec9257d4e0f8e26d4f9b333b1",
     "bytes": 99621822,
     "avf_bootable": false,
