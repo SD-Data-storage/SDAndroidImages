@@ -10,7 +10,9 @@
     "sha256": "",
     "bytes": 0,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-1.1-api-2": {
     "name": "Android 1.1",
@@ -23,7 +25,9 @@
     "sha256": "d96f5d35fbec595337d051fbe61edfda125d70eb849eb0926b608ad78c1d0983",
     "bytes": 45476658,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-1.5-api-3": {
     "name": "Android 1.5",
@@ -36,7 +40,9 @@
     "sha256": "85b6c8f9797e56aa415d3a282428bb640c96b0acb17c11d41621bb2a5302fe64",
     "bytes": 53348669,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-1.6-api-4": {
     "name": "Android 1.6",
@@ -49,7 +55,9 @@
     "sha256": "a8c4e3b32269c6b04c2adeabd112fce42f292dab1a40ef3b08ea7d4212be0df4",
     "bytes": 63454485,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-2.0-api-5": {
     "name": "Android 2.0",
@@ -62,7 +70,9 @@
     "sha256": "e70e2151b49613f23f40828c771ab85e241eed361cab037c6312df77f2612f0a",
     "bytes": 75095268,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-2.0.1-api-6": {
     "name": "Android 2.0.1",
@@ -75,7 +85,9 @@
     "sha256": "f47b46177b17f6368461f85bc2a27d0d2c437929f588ea27105712bc3185f664",
     "bytes": 79192618,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-2.1-api-7": {
     "name": "Android 2.1",
@@ -88,7 +100,9 @@
     "sha256": "b9cc140a9b879586181b22cfc7d4aa18b979251e16e9b17771c5d0acb71ba940",
     "bytes": 70142829,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-2.2-api-8": {
     "name": "Android 2.2",
@@ -101,7 +115,9 @@
     "sha256": "7c9ea1bd7cb225504bd085d7c93ae27d52bd88d29b621d28108f82fef68177c0",
     "bytes": 74652366,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-2.3-api-9": {
     "name": "Android 2.3",
@@ -114,7 +130,9 @@
     "sha256": "b2ab4896d0a4857e4f688f69eb08b0e1a8074709d4445a92a83ece7ec7cd198c",
     "bytes": 78732563,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-2.3.3-api-10": {
     "name": "Android 2.3.3",
@@ -123,11 +141,13 @@
     "version_name": "2.3.3",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-10-android-2.3.3-armeabi-v7a-10_r05.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/armeabi-v7a-10_r05.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": "sysimg",
     "sha256": "b3c6188ca95bea7299b8325bd3bbd4f504fc85545befec979728f2ed169878df",
     "bytes": 67927049,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-3.0-api-11": {
     "name": "Android 3.0",
@@ -136,11 +156,13 @@
     "version_name": "3.0",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-11-android-3.0-android-3.0_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/android-3.0_r02.zip",
-    "image_type": "eclipse_plugin_zip",
+    "image_type": "sysimg",
     "sha256": "1cacae7b6e1b5a5d73c06f5d29d2ea92d16674df8fd5507681290e77d1647a1c",
     "bytes": 104513908,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-3.1-api-12": {
     "name": "Android 3.1",
@@ -149,11 +171,13 @@
     "version_name": "3.1",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-12-android-3.1-android-3.1_r03.zip",
     "fallback_url": "https://dl.google.com/android/repository/android-3.1_r03.zip",
-    "image_type": "eclipse_plugin_zip",
+    "image_type": "sysimg",
     "sha256": "7570c86a86488a146aa2141a65a24d81800959c1907ff4f1d2c13bbafab230c5",
     "bytes": 106472351,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-3.2-api-13": {
     "name": "Android 3.2",
@@ -162,11 +186,13 @@
     "version_name": "3.2",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-13-android-3.2-android-3.2_r01.zip",
     "fallback_url": "https://dl.google.com/android/repository/android-3.2_r01.zip",
-    "image_type": "eclipse_plugin_zip",
+    "image_type": "sysimg",
     "sha256": "ff6b26ad34d7060a72ba504b0314cef8ba3138005561705adec5ad470a073d9b",
     "bytes": 108426536,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-4.0-api-14": {
     "name": "Android 4.0",
@@ -175,11 +201,13 @@
     "version_name": "4.0",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-14-android-4.0-sysimg_armv7a-14_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-14_r02.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": sysimg",
     "sha256": "c322b7cd55cf4bcf7e00282607e7484f3c18cedec9257d4e0f8e26d4f9b333b1",
     "bytes": 99621822,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-4.0.3-api-15": {
     "name": "Android 4.0.3",
@@ -188,11 +216,13 @@
     "version_name": "4.0.3",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-15-android-4.0.3-armeabi-v7a-15_r05.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/armeabi-v7a-15_r05.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": "sysimg",
     "sha256": "1e3c806686f7c2eb237fea933aec2672f35c9d8b7fb3f96e69618a0a3c65cedd",
     "bytes": 102452069,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-4.1-api-16": {
     "name": "Android 4.1",
@@ -201,11 +231,13 @@
     "version_name": "4.1",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-16-android-4.1-armeabi-v7a-16_r06.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/armeabi-v7a-16_r06.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": "sysimg",
     "sha256": "01377d4b8225cbee1e57a242f9da890d1375d6d566f66a679cbee55c32f01e3a",
     "bytes": 118646340,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-4.2-api-17": {
     "name": "Android 4.2",
@@ -214,11 +246,13 @@
     "version_name": "4.2",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-17-android-4.2-armeabi-v7a-17_r06.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/armeabi-v7a-17_r06.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": "sysimg",
     "sha256": "f6953289a7e2bd2fd9a6418afe445a7f3dde4e07dcdbbdfa1b80c9cf5abcef93",
     "bytes": 124437041,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-4.3-api-18": {
     "name": "Android 4.3",
@@ -227,11 +261,13 @@
     "version_name": "4.3",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-18-android-4.3-armeabi-v7a-18_r05.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/armeabi-v7a-18_r05.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": "sysimg",
     "sha256": "4200009917fad970953855a93cf197d0b5739262ff37395f0747a5f49d5485e7",
     "bytes": 130590545,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-4.4-api-19": {
     "name": "Android 4.4",
@@ -240,11 +276,13 @@
     "version_name": "4.4",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-19-android-4.4-armeabi-v7a-19_r05.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/armeabi-v7a-19_r05.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": "sysimg",
     "sha256": "ca7440cade53d829a8cace857cfad9afaa174c286d1b7a5d139e73cfcfde45d7",
     "bytes": 159871567,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-4.4w-api-20": {
     "name": "Android 4.4W",
@@ -253,11 +291,13 @@
     "version_name": "4.4W",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/imgs_2/api-20-android-4.4W-sysimg_wear_arm-20_r04.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android-wear/sysimg_wear_arm-20_r04.zip",
-    "image_type": "emulator_arm32_zip",
+    "image_type": "sysimg",
     "sha256": "a2508341b88478a2885dae0e1af123a44b5be1c9a70e7d41a3fa6f18f305e994",
     "bytes": 112840285,
     "avf_bootable": false,
-    "proven": false
+    "proven": false,
+    "arch": "armeabi-v7a",
+    "supported_abis": ["armeabi-v7a"]
   },
   "android-5.0-api-21": {
     "name": "Android 5.0",
@@ -266,11 +306,13 @@
     "version_name": "5.0",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-21-android-5.0-arm64-v8a-21_r04.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-21_r04.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "6f9f8ab64641ccbea92a02cc85c130a60c3464b87aa9d49952a8d8292f84d073",
     "bytes": 211426314,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-5.1-api-22": {
     "name": "Android 5.1",
@@ -279,11 +321,13 @@
     "version_name": "5.1",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-22-android-5.1-arm64-v8a-22_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-22_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "8176b9fdd3d9e2b031d654b60f6d327c2780927b8a06acf4af835e308c0238bf",
     "bytes": 219124634,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-6-api-23": {
     "name": "Android 6.0",
@@ -292,11 +336,13 @@
     "version_name": "6.0",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-23-android-6.0-arm64-v8a-23_r07.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-23_r07.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "74427db25e4b56a424d4f7d874a253bcd43c0db7be2c7b0b5dbb142e860131a4",
     "bytes": 253807785,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-7-api-24": {
     "name": "Android 7.0",
@@ -305,11 +351,13 @@
     "version_name": "7.0",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-24-android-7.0-arm64-v8a-24_r09.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-24_r09.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "3c3a70dcffe8c162984ec190fc3388bf237b241b3ba80bf7aa5c86e130d8f59b",
     "bytes": 305854153,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-7.1-api-25": {
     "name": "Android 7.1",
@@ -318,11 +366,13 @@
     "version_name": "7.1",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-25-android-7.1-arm64-v8a-25_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-25_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "1d38666f6e64f983e0d3ad86ef5c42d213685fcd6932a0f2dfbcee0e79767cc2",
     "bytes": 308416103,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-8-api-26": {
     "name": "Android 8.0",
@@ -331,11 +381,13 @@
     "version_name": "8.0",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-26-android-8.0-arm64-v8a-26_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-26_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "74785c6d7ce73a12e730bd2bceb075fb4c68e0052c8f79b78f9322b722c2923c",
     "bytes": 330014927,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-8.1-api-27": {
     "name": "Android 8.1",
@@ -344,11 +396,13 @@
     "version_name": "8.1",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-27-android-8.1-arm64-v8a-27_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-27_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "5e079c20e557c6e0191932aea2e832a340b7ed66fbfa8b87f6141517cc73992c",
     "bytes": 332173536,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-9-api-28": {
     "name": "Android 9",
@@ -357,11 +411,13 @@
     "version_name": "9",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-28-android-9-arm64-v8a-28_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-28_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "86844d2edf6ba7c7f11261f6be3fb37788c985cfcf3b8924cfe9f57a1ccbc0a9",
     "bytes": 426760297,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-10-api-29": {
     "name": "Android 10",
@@ -370,11 +426,13 @@
     "version_name": "10",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-29-android-10-arm64-v8a-29_r08.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-29_r08.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "7fd1610e16a69ac2e202278e82077de134ce404fe099d872019f69f3a340acdd",
     "bytes": 498049256,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-11-api-30": {
     "name": "Android 11",
@@ -383,11 +441,13 @@
     "version_name": "11",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-30-android-11-arm64-v8a-30_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-30_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "cb50112cf2dd234a71e2a29b0241c23dbb37dd5fc3156c68cc9c49d0f58ad304",
     "bytes": 548363615,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-12-api-31": {
     "name": "Android 12",
@@ -396,11 +456,13 @@
     "version_name": "12",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-31-android-12-arm64-v8a-31_r03.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-31_r03.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "75e18261311189a641b6880e4427d5f90b7c4e9b0cc7c4ff38c70b6f447b39d8",
     "bytes": 635481190,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-12l-api-32": {
     "name": "Android 12L",
@@ -409,11 +471,13 @@
     "version_name": "12L",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-32-android-12L-arm64-v8a-32_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-32_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "cee6aab64d859bb9a0b93628638c46e36d5e1c8364410f53a5e74f197b9fa9e6",
     "bytes": 643262633,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-13-api-33": {
     "name": "Android 13",
@@ -422,11 +486,13 @@
     "version_name": "13",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-33-android-13-arm64-v8a-33_r02.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-33_r02.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "55ba9a20d473dd5351c77342016956342c40375f3e073b65a43dc9db13ccc5c6",
     "bytes": 672331372,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-14-api-34": {
     "name": "Android 14",
@@ -435,11 +501,13 @@
     "version_name": "14",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-34-android-14-arm64-v8a-34_r04.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android/arm64-v8a-34_r04.zip",
-    "image_type": "emulator_arm64_zip",
+    "image_type": "sysimg",
     "sha256": "1447958a4c6747c44390ac5f5f4c894be6d1dfce93868a0385a95c5f0ae4c339",
     "bytes": 705115396,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a", "armeabi-v7a"]
   },
   "android-15-api-35": {
     "name": "Android 15",
@@ -452,7 +520,9 @@
     "sha256": "cb4ef5ce3f0d1f1fae20a68cdf8d27834f55c1819ed76d3d524c148c05aad0f6",
     "bytes": 1046289693,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a"]
   },
   "android-16-api-36": {
     "name": "Android 16",
@@ -465,11 +535,13 @@
     "sha256": "372a7bce554063b7cba7127476ad20e27ea21466cbb9a42bb43649380d6232be",
     "bytes": 1060937431,
     "avf_bootable": true,
-    "proven": true
+    "proven": true,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a"]
   },
   "android-17-api-37": {
     "name": "Android 17",
-    "detailed_name": "ARM64 Cuttlefish bundle · catalog slot awaiting release upload",
+    "detailed_name": "ARM64 Cuttlefish bundle",
     "api_level": 37,
     "version_name": "17",
     "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-37-android-17-aosp_cf_arm64_only_phone-img-15430684.zip",
@@ -478,6 +550,8 @@
     "sha256": "",
     "bytes": 0,
     "avf_bootable": true,
-    "proven": false
+    "proven": false,
+    "arch": "arm64-v8a",
+    "supported_abis": ["arm64-v8a"]
   }
 }
