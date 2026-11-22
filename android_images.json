@@ -251,7 +251,7 @@
     "detailed_name": "Android Wear ARM AVD image · Old Wear image is no longer present in Google's live system-image index",
     "api_level": 20,
     "version_name": "4.4W",
-    "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/img_list_1/api-20-android-4.4W-sysimg_wear_arm-20_r04.zip",
+    "url": "https://github.com/SD-Data-storage/SDAndroidImages/releases/download/imgs_2/api-20-android-4.4W-sysimg_wear_arm-20_r04.zip",
     "fallback_url": "https://dl.google.com/android/repository/sys-img/android-wear/sysimg_wear_arm-20_r04.zip",
     "image_type": "emulator_arm32_zip",
     "sha256": "a2508341b88478a2885dae0e1af123a44b5be1c9a70e7d41a3fa6f18f305e994",
